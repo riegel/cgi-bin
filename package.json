@@ -1,0 +1,25 @@
+{
+  "name": "simplecgiserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://rosco9awj@github.com/rosco9awj/Simple-Nodejs-cgi-Server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rosco9awj/Simple-Nodejs-cgi-Server/issues"
+  },
+  "homepage": "https://github.com/rosco9awj/Simple-Nodejs-cgi-Server#readme",
+  "dependencies": {
+    "cgi": "^0.3.1",
+    "express": "^4.13.4",
+    "path": "^0.12.7"
+  }
+}
